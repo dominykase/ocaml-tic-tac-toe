@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_tictactoe)
+ (name main)
+ (libraries tic_tac_toe))
